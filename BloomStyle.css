@@ -1,10 +1,10 @@
-td { padding: 5px; }
 .generic {
     font-family: "Segoe UI";
     font-size: small;
     vertical-align: middle;
     text-align: left;
     background-color: #ffffff;}
+td { padding: 5px; }
 .cs-hide { display: none; }
 .td-check {
     border-bottom: solid 1px #474747;
